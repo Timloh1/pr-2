@@ -2,6 +2,9 @@
 
 using namespace std;
 
+
+
+
 class PlaneControl {
 
 	double leftAileron = 0;
@@ -61,7 +64,7 @@ void showInfo(PlaneControl* planeControl) {
 	//cout << "Left Aileron: " << planeControl->getLeftAileron() << endl;
 	//cout << "Right Aileron: " << planeControl->getRightAileron() << endl;
 	//cout << "Elevator: " << planeControl->getElevator() << endl;
-	//áåç friend. ëó÷øå èñïîëüçîâàòü get èëè set.
+	//Ã¡Ã¥Ã§ friend. Ã«Ã³Ã·Ã¸Ã¥ Ã¨Ã±Ã¯Ã®Ã«Ã¼Ã§Ã®Ã¢Ã Ã²Ã¼ get Ã¨Ã«Ã¨ set.
 
 	cout << "Left Aileron: " << planeControl->leftAileron << endl;
 	cout << "Right Aileron: " << planeControl->rightAileron << endl;
