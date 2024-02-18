@@ -5,6 +5,9 @@ using namespace std;
 
 
 
+
+
+
 class PlaneControl {
 
 	double leftAileron = 0;
