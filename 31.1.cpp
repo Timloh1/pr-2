@@ -82,8 +82,8 @@ class SuperOperaDog : public OperaDog
 
 int main() {
 
-	Animal* d = new Dog("evre", "evqew", 5);
-	delete d;
+	Animal* f = new Dog("evre", "evqew", 5);
+	delete f;
 
 	SuperOperaDog a;
 	a.voice();
