@@ -1,5 +1,9 @@
-/*#include <iostream>
+#include <iostream>
 #include <string>
+
+
+
+
 
 using namespace std;
 
@@ -82,6 +86,6 @@ public:
 int main() {
 
 	unique_ptr<Dog> d = make_unique<Dog>("cwc", "wcwwc", 6);
-	//foo(d); нельзя
+	//foo(d); Г­ГҐГ«ГјГ§Гї
 
-}*/
+}
