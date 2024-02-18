@@ -3,6 +3,9 @@
 
 using namespace std;
 
+
+
+
 class Toy
 {
 private:
