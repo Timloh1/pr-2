@@ -26,6 +26,8 @@ public:
 class Dog : public Animal
 {
 
+
+
 private:
 
 	string name;
