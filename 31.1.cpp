@@ -12,6 +12,8 @@ public:
 	Toy() :name("SomeToy") {};
 };
 
+
+
 class Animal 
 {
 public:
